@@ -1,12 +1,7 @@
 - I can write
 　　HTML
   　CSS
-  　Javascript
-  　Python
-  　LaTex
-  　C#
-  　Ruby (little...)
-  　B
+  　Java
 - 👋 Hi, I’m @Hiroja-Charles,call me HC.
 - 👀 I’m interested in physics and mathematics.
 - 🌱 I’m currently learning AI tech.
